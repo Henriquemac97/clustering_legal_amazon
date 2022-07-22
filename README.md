@@ -15,5 +15,5 @@ A solução para essa problema está no trabalho coordenado entre os competidore
 Sendo assim, o presente trabalho tem por objetivo desenvolver um modelo de identificação de grupos prioritários para a adoção de cooperativas de produtos nativos na Amazônia Legal.
 ## 2) References
 - Estratégias para o desenvolvimento da Amazônia Brasileira: lições aprendidas dos arranjos pré-competitivos: https://amazonia2030.org.br/wp-content/uploads/2021/11/Arranjos-Pre-competitivos-final.pdf
-##3) Roadmap 
+## 3) Roadmap 
 Como próximo passo, desejo utilizar ferramentas de visualização iterativas para mostrar a distribuição das cidades pertencentes a cada grupo no mapa.
