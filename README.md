@@ -20,4 +20,4 @@ Sendo assim, o presente trabalho tem por objetivo **desenvolver um modelo de ide
 ## 2) Referências
 - Estratégias para o desenvolvimento da Amazônia Brasileira: lições aprendidas dos arranjos pré-competitivos: https://amazonia2030.org.br/wp-content/uploads/2021/11/Arranjos-Pre-competitivos-final.pdf
 ## 3) Próximos passos 
-Desejo utilizar ferramentas de visualização iterativas para mostrar a distribuição das cidades pertencentes a cada grupo no mapa.
+Utilizar ferramentas de visualização iterativas para mostrar a distribuição das cidades pertencentes a cada grupo de cooperativas no mapa.
