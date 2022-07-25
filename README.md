@@ -16,7 +16,7 @@ A solução para essa problema está na realização de um trabalho coordenado e
 Logo, para desenvolver a economia da região Amazônica, é importante que hajam recursos para identificar oportunidades de criação de cooperativas na região e assim aumentar a participação do faturamento dos produtos nativos da região no mercado internacional.
 
 ### 1.2) Objetivo
-Sendo assim, o presente trabalho tem por objetivo desenvolver um modelo de identificação de grupos prioritários para a adoção de cooperativas de produtos nativos na Amazônia Legal.
+Sendo assim, o presente trabalho tem por objetivo **desenvolver um modelo de identificação de grupos prioritários para a adoção de cooperativas de produtos nativos na Amazônia Legal**.
 ## 2) Referências
 - Estratégias para o desenvolvimento da Amazônia Brasileira: lições aprendidas dos arranjos pré-competitivos: https://amazonia2030.org.br/wp-content/uploads/2021/11/Arranjos-Pre-competitivos-final.pdf
 ## 3) Próximos passos 
