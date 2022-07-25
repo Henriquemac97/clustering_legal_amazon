@@ -13,7 +13,7 @@ Há países com condições econômicas e sociais menos desenvolvidas que o Bras
 
 A solução para essa problema está na realização de um trabalho coordenado entre empresas competidoras locais e o governo, no qual há uma união conjunta para identificar as barreiras que dificultam o crescimento econômico assim como os recursos necessários para superá-las. Essas cooperativas são conhecidos como arranjos pré-competitivos e casos de sucesso que seguiram esse modelo incluem empresas bolivianas que se juntaram para conseguir dominar o mercado mundial de castanhas sem casca. No Brasil, iniciativas parecidas incluem empresas de açúcar e álcool em São Paulo e de café em Minas Gerais.
 
-Logo, para desenvolver a economia da região Amazônica, é importante que hajam recursos para identificar oportunidades de criação de cooperativas na região e assim aumentar a participação do faturamento dos produtos nativos da região no mercado internacional.
+Logo, para desenvolver a economia da região Amazônica, é importante que hajam recursos para identificar oportunidades de criação de cooperativas na região e assim aumentar a participação do faturamento dos produtos nativos no mercado internacional.
 
 ### 1.2) Objetivo
 Sendo assim, o presente trabalho tem por objetivo **desenvolver um modelo de identificação de grupos prioritários para a adoção de cooperativas de produtos nativos na Amazônia Legal**.
